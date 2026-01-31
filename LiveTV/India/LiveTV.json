@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-29 22:20:04",
+  "date": "2026-01-31 06:25:33",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -314,6 +314,20 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
+      },
+      {
+        "name": "Nagorik TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Green TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8"
       },
       {
         "name": "Channel S UK HD",
@@ -652,13 +666,6 @@
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8"
-      },
-      {
-        "name": "Bollywood Classic HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
       }
     ],
     "Sports": [
@@ -819,11 +826,11 @@
         "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "4K Travel",
+        "name": "Trave Channel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Information",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"
+        "url": "https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8"
       },
       {
         "name": "DMAX",
@@ -854,13 +861,6 @@
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://wildearth-plex.amagi.tv/master.m3u8"
-      },
-      {
-        "name": "Drone tv",
-        "logo": "https://photos.prnewswire.com/prnfull/20150515/10122924",
-        "group": "Documentary",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8"
       },
       {
         "name": "OUTDOOR CHANNEL 🇺🇸",
@@ -920,13 +920,6 @@
       }
     ],
     "KIDS": [
-      {
-        "name": "Pogo",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8"
-      },
       {
         "name": "Zoo Moo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -1016,39 +1009,11 @@
         "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
       },
       {
-        "name": "HBO",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://185.18.56.26:8888/hbo1/index.m3u8"
-      },
-      {
-        "name": "HBO2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://185.18.56.26:8888/hbo2/index.m3u8"
-      },
-      {
-        "name": "HBO3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://185.18.56.26:8888/hbo3/index.m3u8"
-      },
-      {
         "name": "HBO FAMILY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8"
-      },
-      {
-        "name": "AXN",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://185.18.56.26:8888/axn/index.m3u8"
       },
       {
         "name": "AXN BLACK",
@@ -1212,6 +1177,20 @@
         "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       },
       {
+        "name": "FASHION TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03v/index.m3u8"
+      },
+      {
+        "name": "PLANET FUN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03w/index.m3u8"
+      },
+      {
         "name": "GUBBARE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1268,13 +1247,6 @@
         "group": "Hindi Music",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8"
-      },
-      {
-        "name": "Zoom",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",
-        "group": "Hindi Music",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8"
       }
     ],
     "English News": [
@@ -1455,13 +1427,6 @@
         "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
       },
       {
-        "name": "Lemar AGF",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8"
-      },
-      {
         "name": "ATN AFG",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1495,13 +1460,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://178.33.239.54:8080/503a/index.m3u8"
-      },
-      {
-        "name": "🚨 ATN AFG 🚨",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"
       },
       {
         "name": "DD SPORTS",
@@ -1942,11 +1900,11 @@
         "url": "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8"
       },
       {
-        "name": "Raj Digital Plus (576p)",
+        "name": "Raj Digital Plus (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/683.m3u8"
+        "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8"
       },
       {
         "name": "Roja Movies (1080p)",
@@ -2205,20 +2163,6 @@
         "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
       },
       {
-        "name": "Unnamed Channel",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8"
-      },
-      {
-        "name": "ZB Cartoon",
-        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
-      },
-      {
         "name": "Zoo Moo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Kids",
@@ -2280,6 +2224,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.178.78.151:7505/play/a0v1/index.m3u8"
+      },
+      {
+        "name": "ZB Cartoon (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
       }
     ],
     "ISLAMIC CHANNELS": [
@@ -2424,13 +2375,6 @@
         "group": "Infotainment Channels",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
-      },
-      {
-        "name": "4k Nature",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Infotainment Channels",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth"
       },
       {
         "name": "ACCU WEATHER",
@@ -3016,13 +2960,6 @@
         "url": "http://103.182.170.32:8888/play/a01v"
       },
       {
-        "name": "Sun TV (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8"
-      },
-      {
         "name": "Suriya TV (1080p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png",
         "group": "Entertainment",
@@ -3188,13 +3125,6 @@
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
       },
       {
-        "name": "BBC News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
-      },
-      {
         "name": "DW English",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NEWS INTERNASIONAL",
@@ -3249,6 +3179,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8"
+      },
+      {
+        "name": "CGTN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://0472.org/hls/cgtn.m3u8"
       },
       {
         "name": "CNN (US)",
@@ -4275,13 +4212,6 @@
         "url": "https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8"
       },
       {
-        "name": "Raj News (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL/images/LOGO_HD/image.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/767.m3u8"
-      },
-      {
         "name": "Raj News Kannada (576p) [Not 24/7]",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LOGO_HD/image.png",
         "group": "News",
@@ -4872,11 +4802,11 @@
         "url": "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
       },
       {
-        "name": "Raj Musix Tamil (576p)",
+        "name": "Raj Musix Tamil (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/748.m3u8"
+        "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8"
       },
       {
         "name": "Raj Musix Telugu (720p)",
@@ -5003,6 +4933,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
+      },
+      {
+        "name": "Zoom Global (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8"
       }
     ],
     "Religious": [
