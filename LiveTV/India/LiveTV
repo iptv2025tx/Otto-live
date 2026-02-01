@@ -372,12 +372,6 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
-  },
-  {
     "name": "God TV",
     "type": "Relagion Channel",
     "url": "https://hlsb-us.god.tv/GODTV/USA-480.m3u8",
@@ -858,6 +852,24 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Utsav Gold",
+    "type": "",
+    "url": "http://45.148.145.57/IN_STU/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A SPORTS",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03t/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FAST SPORTS",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a001/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "M4 SPORTS",
     "type": "",
     "url": "http://dvr1.kablova.tv/M4/index.m3u8",
@@ -870,15 +882,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ESPN 7",
+    "type": "",
+    "url": "http://201.230.121.186:8000/play/a0dz/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Makka TV",
     "type": "",
     "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Colors Cineplex Superhits",
+    "name": "HBO FAMILY",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a04c/index.m3u8",
+    "url": "https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -888,15 +906,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "AAN TV",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02c/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Epic",
     "type": "",
     "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "GOLDMINES MOVIES",
+    "name": "FILMAX",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a04l/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a02o/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FILMAZIA",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02l/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -969,6 +999,12 @@
     "name": "Zee 24 Ghanta",
     "type": "",
     "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Green Entertainment",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02v/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1524,6 +1560,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png"
   },
   {
+    "name": "Colors Cineplex Superhits (576p)",
+    "type": "Movies",
+    "url": "http://163.61.227.29:8000/play/a04c/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Colors Gujarati Cinema (576p)",
     "type": "Movies",
     "url": "http://103.140.254.2:3500/live/1324.m3u8",
@@ -2044,12 +2086,6 @@
     "type": "Infotainment Channels",
     "url": "http://stvlive.net:8080/discovery/index.m3u8",
     "img": "https://i.ibb.co/V2gtYfH/download-1.png"
-  },
-  {
-    "name": "Amazon SAT",
-    "type": "Infotainment Channels",
-    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Colors HD",
@@ -2685,12 +2721,6 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
