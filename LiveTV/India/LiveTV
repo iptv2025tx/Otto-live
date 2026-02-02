@@ -810,12 +810,6 @@
     "img": "https://i.imgur.com/XVUGLxa.png"
   },
   {
-    "name": "Pogo",
-    "type": "KIDS",
-    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
-  },
-  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -849,24 +843,6 @@
     "name": "YRF Music HD",
     "type": "",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Utsav Gold",
-    "type": "",
-    "url": "http://45.148.145.57/IN_STU/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "A SPORTS",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a03t/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FAST SPORTS",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a001/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -906,27 +882,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "AAN TV",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a02c/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Epic",
     "type": "",
     "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "FILMAX",
+    "name": "ZEE ANMOL CINEMA",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a02o/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a04j/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "FILMAZIA",
+    "name": "GOLDMINES MOVIES",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a02l/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a04l/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -990,21 +960,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "5 NEWS HD",
+    "name": "Discover Pakistan",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a03m/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a03b/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Zee 24 Ghanta",
     "type": "",
     "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Green Entertainment",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a02v/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1023,6 +987,12 @@
     "name": "ENTER10 BANGLA",
     "type": "",
     "url": "https://cdn-4.pishow.tv/live/241/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Hum Masala",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02g/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1239,12 +1209,6 @@
     "name": "🚨Sathiya TV Srilanka 📡📺",
     "type": "Cricket 🏏",
     "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony Ten 3 Hindi",
-    "type": "Cricket 🏏",
-    "url": "http://203.18.159.115/Football3-TG-josharmy007/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2088,6 +2052,12 @@
     "img": "https://i.ibb.co/V2gtYfH/download-1.png"
   },
   {
+    "name": "Amazon SAT",
+    "type": "Infotainment Channels",
+    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Colors HD",
     "type": "Entertainment",
     "url": "https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8",
@@ -2220,15 +2190,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png"
   },
   {
-    "name": "Colors Tamil (576p)",
+    "name": "Colors Tamil (720p)",
     "type": "Entertainment",
-    "url": "http://103.140.254.2:3500/live/1371.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Colors Tamil HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.140.254.2:3500/live/429.m3u8",
+    "url": "http://15.235.144.106:14052/",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
   },
   {
@@ -2568,6 +2532,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png"
   },
   {
+    "name": "Sun TV HD (720p)",
+    "type": "Entertainment",
+    "url": "http://15.235.144.106:14054/",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Suriya TV (1080p)",
     "type": "Entertainment",
     "url": "https://galaxyott.live/hls/suryatv.m3u8",
@@ -2721,6 +2691,12 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC News",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5104,12 +5080,6 @@
     "type": "Comedy",
     "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "img": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png"
-  },
-  {
-    "name": "Food Food (576p)",
-    "type": "Cooking;Lifestyle",
-    "url": "http://103.140.254.2:3500/live/561.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png"
   },
   {
     "name": "India TV Aap Ki Adalat (1080p) [Geo-blocked]",

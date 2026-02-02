@@ -4,21 +4,6 @@ URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiao
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Utsav Gold
-URL: http://45.148.145.57/IN_STU/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: A SPORTS
-URL: http://163.61.227.29:8000/play/a03t/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: FAST SPORTS
-URL: http://163.61.227.29:8000/play/a001/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: M4 SPORTS
 URL: http://dvr1.kablova.tv/M4/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -49,23 +34,18 @@ URL: http://84.54.128.52:9090/play/1008/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: AAN TV
-URL: http://163.61.227.29:8000/play/a02c/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Epic
 URL: http://epiconvh.akamaized.net/live/epic/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: FILMAX
-URL: http://163.61.227.29:8000/play/a02o/index.m3u8
+Name: ZEE ANMOL CINEMA
+URL: http://163.61.227.29:8000/play/a04j/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: FILMAZIA
-URL: http://163.61.227.29:8000/play/a02l/index.m3u8
+Name: GOLDMINES MOVIES
+URL: http://163.61.227.29:8000/play/a04l/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -119,18 +99,13 @@ URL: https://mumt03.tangotv.in/HIDOST/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: 5 NEWS HD
-URL: http://163.61.227.29:8000/play/a03m/index.m3u8
+Name: Discover Pakistan
+URL: http://163.61.227.29:8000/play/a03b/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Zee 24 Ghanta
 URL: https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Green Entertainment
-URL: http://163.61.227.29:8000/play/a02v/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -146,6 +121,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: ENTER10 BANGLA
 URL: https://cdn-4.pishow.tv/live/241/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Hum Masala
+URL: http://163.61.227.29:8000/play/a02g/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -505,13 +485,6 @@ Logo: https://i.imgur.com/3D5SN3E.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
-Group: Cooking;Lifestyle
-Name: Food Food (576p)
-URL: http://103.140.254.2:3500/live/561.m3u8
-Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-
 Group: Cricket 🏏
 Name: Live Quran TV 🎯 📡
 URL: https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
@@ -550,11 +523,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: 🚨Sathiya TV Srilanka 📡📺
 URL: https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Sony Ten 3 Hindi
-URL: http://203.18.159.115/Football3-TG-josharmy007/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -898,13 +866,8 @@ URL: http://103.140.254.2:3500/live/785.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Colors Tamil (576p)
-URL: http://103.140.254.2:3500/live/1371.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Colors Tamil HD (1080p)
-URL: http://103.140.254.2:3500/live/429.m3u8
+Name: Colors Tamil (720p)
+URL: http://15.235.144.106:14052/
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1186,6 +1149,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Sun Bangla (576p)
 URL: http://103.182.170.32:8888/play/a01v
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Sun TV HD (720p)
+URL: http://15.235.144.106:14054/
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Suriya TV (1080p)
@@ -1937,6 +1905,11 @@ URL: http://stvlive.net:8080/discovery/index.m3u8
 Logo: https://i.ibb.co/V2gtYfH/download-1.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Amazon SAT
+URL: https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 
 Group: Islamic
 Name: Islam bangla
@@ -1963,11 +1936,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: KIDS
-Name: Pogo
-URL: https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Zoo Moo
 URL: https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2821,6 +2789,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: BBC News
+URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
