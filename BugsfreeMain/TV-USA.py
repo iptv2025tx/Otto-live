@@ -259,8 +259,8 @@ def main():
     source_urls = [        
         "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/sinclair-stream.m3u8", 
         "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/moj.m3u8", 
-        "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/ttva.m3u8", 
         "https://github.com/iptv2025tx/one-stop-2026/raw/refs/heads/main/turnerwbd.m3u8", 
+        "https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/TheTVApp.m3u8
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8",
     ]
 
