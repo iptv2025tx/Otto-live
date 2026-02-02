@@ -216,6 +216,12 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"
   },
   {
+    "name": "BPL 2026",
+    "type": "BPL 2026",
+    "url": "http://163.61.227.29:8000/play/a05l/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"
+  },
+  {
     "name": "Live Sports",
     "type": "Live Sports",
     "url": "https://starsportshindiii.pages.dev/index.m3u8",
@@ -286,6 +292,12 @@
     "type": "Bangla",
     "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel S HD",
+    "type": "Bangla",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
+    "img": "https://i.ibb.co/QmPPKgg/20240826-231747.png"
   },
   {
     "name": "Channel S UK",
@@ -852,6 +864,24 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Utsav Gold",
+    "type": "",
+    "url": "http://45.148.145.57/IN_STU/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A SPORTS",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03t/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FAST SPORTS",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a001/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "M4 SPORTS",
     "type": "",
     "url": "http://dvr1.kablova.tv/M4/index.m3u8",
@@ -876,6 +906,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Colors Cineplex Superhits",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04c/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "HBO FAMILY",
     "type": "",
     "url": "https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8",
@@ -894,6 +930,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "B4U MUSIC",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a046/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "AAN TV",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02c/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Epic",
     "type": "",
     "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8",
@@ -903,6 +951,36 @@
     "name": "ARY MUSIK",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03r/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZEE ANMOL CINEMA",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04j/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FILMAX",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02o/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FILMAZIA",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02l/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "B4U MOVIES",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a047/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "GOLDMINES MOVIES",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04l/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -948,9 +1026,39 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "A2",
+    "name": "ARY Zindagi",
     "type": "",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+    "url": "http://163.61.227.29:8000/play/a03o/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BIG MAGIC",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04f/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ARY DIGITAL",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03p/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Play HD",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03c/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Aur Life HD",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03e/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "VENUS ENTERTAINMENT",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02y/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -960,9 +1068,57 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Dangal 2",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04b/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Hi Dost!",
     "type": "",
     "url": "https://mumt03.tangotv.in/HIDOST/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Express HD",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a05i/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZEE ANMOL",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04a/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A plus",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03l/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Discover Pakistan",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03b/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "DISCOVERY",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01i/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "DISCOVERY TURBO",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01w/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "National Geographic",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01d/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -975,6 +1131,12 @@
     "name": "Zee 24 Ghanta",
     "type": "",
     "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Green Entertainment",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02v/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -993,6 +1155,24 @@
     "name": "ENTER10 BANGLA",
     "type": "",
     "url": "https://cdn-4.pishow.tv/live/241/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PTV HOME",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a05k/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Hum Masala",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02g/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "The Q Kahaniyan",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04v/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1044,6 +1224,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "FASHION TV",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03v/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PLANET FUN",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03w/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "GUBBARE",
     "type": "",
     "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
@@ -1053,6 +1245,12 @@
     "name": "KIDS ZONE",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03x/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Cartoon Network Hindi",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1155,12 +1353,6 @@
     "name": "DIPPTO",
     "type": "Live Tv",
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ETV TV",
-    "type": "Live Tv",
-    "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1534,12 +1726,6 @@
     "type": "Movies",
     "url": "http://116.90.120.152:8000/play/a0ji/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Colors Cineplex Superhits (576p)",
-    "type": "Movies",
-    "url": "http://163.61.227.29:8000/play/a04c/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png"
   },
   {
     "name": "Colors Gujarati Cinema (576p)",
@@ -2679,6 +2865,12 @@
     "name": "France 24 English (720p)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FOX NEWS",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

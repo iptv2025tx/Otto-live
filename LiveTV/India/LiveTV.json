@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-02 13:58:35",
+  "date": "2026-02-02 21:52:47",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -261,6 +261,13 @@
         "group": "BPL 2026",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8"
+      },
+      {
+        "name": "BPL 2026",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10",
+        "group": "BPL 2026",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a05l/index.m3u8"
       }
     ],
     "Live Sports": [
@@ -349,6 +356,13 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
+      },
+      {
+        "name": "Channel S HD",
+        "logo": "https://i.ibb.co/QmPPKgg/20240826-231747.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Channel S UK",
@@ -1043,6 +1057,27 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
       },
       {
+        "name": "Utsav Gold",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://45.148.145.57/IN_STU/index.m3u8"
+      },
+      {
+        "name": "A SPORTS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03t/index.m3u8"
+      },
+      {
+        "name": "FAST SPORTS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a001/index.m3u8"
+      },
+      {
         "name": "M4 SPORTS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1071,6 +1106,13 @@
         "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
       },
       {
+        "name": "Colors Cineplex Superhits",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a04c/index.m3u8"
+      },
+      {
         "name": "HBO FAMILY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1092,6 +1134,20 @@
         "url": "http://163.61.227.29:8000/play/a03u/index.m3u8"
       },
       {
+        "name": "B4U MUSIC",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a046/index.m3u8"
+      },
+      {
+        "name": "AAN TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a02c/index.m3u8"
+      },
+      {
         "name": "Epic",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1104,6 +1160,41 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a03r/index.m3u8"
+      },
+      {
+        "name": "ZEE ANMOL CINEMA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a04j/index.m3u8"
+      },
+      {
+        "name": "FILMAX",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a02o/index.m3u8"
+      },
+      {
+        "name": "FILMAZIA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a02l/index.m3u8"
+      },
+      {
+        "name": "B4U MOVIES",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a047/index.m3u8"
+      },
+      {
+        "name": "GOLDMINES MOVIES",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a04l/index.m3u8"
       },
       {
         "name": "Movies Thriller",
@@ -1155,11 +1246,46 @@
         "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
       },
       {
-        "name": "A2",
+        "name": "ARY Zindagi",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8"
+        "url": "http://163.61.227.29:8000/play/a03o/index.m3u8"
+      },
+      {
+        "name": "BIG MAGIC",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a04f/index.m3u8"
+      },
+      {
+        "name": "ARY DIGITAL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03p/index.m3u8"
+      },
+      {
+        "name": "Play HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03c/index.m3u8"
+      },
+      {
+        "name": "Aur Life HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03e/index.m3u8"
+      },
+      {
+        "name": "VENUS ENTERTAINMENT",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a02y/index.m3u8"
       },
       {
         "name": "Dangal",
@@ -1169,11 +1295,67 @@
         "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
       },
       {
+        "name": "Dangal 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a04b/index.m3u8"
+      },
+      {
         "name": "Hi Dost!",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://mumt03.tangotv.in/HIDOST/index.m3u8"
+      },
+      {
+        "name": "Express HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a05i/index.m3u8"
+      },
+      {
+        "name": "ZEE ANMOL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a04a/index.m3u8"
+      },
+      {
+        "name": "A plus",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03l/index.m3u8"
+      },
+      {
+        "name": "Discover Pakistan",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03b/index.m3u8"
+      },
+      {
+        "name": "DISCOVERY",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a01i/index.m3u8"
+      },
+      {
+        "name": "DISCOVERY TURBO",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a01w/index.m3u8"
+      },
+      {
+        "name": "National Geographic",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a01d/index.m3u8"
       },
       {
         "name": "5 NEWS HD",
@@ -1188,6 +1370,13 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8"
+      },
+      {
+        "name": "Green Entertainment",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a02v/index.m3u8"
       },
       {
         "name": "AAKASH AATH",
@@ -1209,6 +1398,27 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-4.pishow.tv/live/241/master.m3u8"
+      },
+      {
+        "name": "PTV HOME",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a05k/index.m3u8"
+      },
+      {
+        "name": "Hum Masala",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a02g/index.m3u8"
+      },
+      {
+        "name": "The Q Kahaniyan",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a04v/index.m3u8"
       },
       {
         "name": "BBC NEWS",
@@ -1267,6 +1477,20 @@
         "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       },
       {
+        "name": "FASHION TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03v/index.m3u8"
+      },
+      {
+        "name": "PLANET FUN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03w/index.m3u8"
+      },
+      {
         "name": "GUBBARE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1279,6 +1503,13 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
+      },
+      {
+        "name": "Cartoon Network Hindi",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
       },
       {
         "name": "দূরন্ত টিভি",
@@ -1404,13 +1635,6 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
-      },
-      {
-        "name": "ETV TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8"
       },
       {
         "name": "NATIONAL GEOGRAPHI",
@@ -1853,13 +2077,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://116.90.120.152:8000/play/a0ji/index.m3u8"
-      },
-      {
-        "name": "Colors Cineplex Superhits (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://163.61.227.29:8000/play/a04c/index.m3u8"
       },
       {
         "name": "Colors Gujarati Cinema (576p)",
@@ -3204,6 +3421,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
+      },
+      {
+        "name": "FOX NEWS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
       },
       {
         "name": "DW NEWS",
