@@ -34,18 +34,18 @@ URL: http://84.54.128.52:9090/play/1008/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: LOTUS MACAU
+URL: http://163.61.227.29:8000/play/a03u/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Epic
 URL: http://epiconvh.akamaized.net/live/epic/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: ZEE ANMOL CINEMA
-URL: http://163.61.227.29:8000/play/a04j/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: GOLDMINES MOVIES
-URL: http://163.61.227.29:8000/play/a04l/index.m3u8
+Name: ARY MUSIK
+URL: http://163.61.227.29:8000/play/a03r/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -99,8 +99,8 @@ URL: https://mumt03.tangotv.in/HIDOST/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Discover Pakistan
-URL: http://163.61.227.29:8000/play/a03b/index.m3u8
+Name: 5 NEWS HD
+URL: http://163.61.227.29:8000/play/a03m/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -124,11 +124,6 @@ URL: https://cdn-4.pishow.tv/live/241/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Hum Masala
-URL: http://163.61.227.29:8000/play/a02g/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: BBC NEWS
 URL: http://45.148.145.57/IN_BN/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -149,6 +144,11 @@ URL: https://mumt03.tangotv.in/DHOOM/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: SHOWBOX
+URL: http://163.61.227.29:8000/play/a045/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: SANGEET BANGLA
 URL: https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -166,6 +166,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: GUBBARE
 URL: https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: KIDS ZONE
+URL: http://163.61.227.29:8000/play/a03x/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -302,11 +307,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Srk Tv
 URL: https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Channel S HD
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
-Logo: https://i.ibb.co/QmPPKgg/20240826-231747.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Channel S UK
@@ -511,7 +511,12 @@ URL: https://stream.spicefmbd.com/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Fox Cricket 501 📡Pak vs Australia T20
+Name: 📡Pak vs Australia T20
+URL: https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Fox Cricket 501 📡
 URL: http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
@@ -523,11 +528,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: 🚨Sathiya TV Srilanka 📡📺
 URL: https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: 🚨 Willow USA SPORT HD 🚨📡📺
-URL: https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1936,6 +1936,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: KIDS
+Name: Pogo
+URL: https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Zoo Moo
 URL: https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2769,11 +2774,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Group: NEWS INTERNASIONAL
 Name: France 24 English (720p)
 URL: https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: FOX NEWS
-URL: https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3918,6 +3918,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Madani TV
 URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
 Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Makkah TV
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+Logo: https://i.ibb.co/TtHtGkW/20240803-172601.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: God TV

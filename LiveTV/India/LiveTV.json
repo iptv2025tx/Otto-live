@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-02 06:31:27",
+  "date": "2026-02-02 13:58:35",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -351,13 +351,6 @@
         "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
       },
       {
-        "name": "Channel S HD",
-        "logo": "https://i.ibb.co/QmPPKgg/20240826-231747.png",
-        "group": "Bangla",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "Channel S UK",
         "logo": "https://i.ibb.co/QmPPKgg/20240826-231747.png",
         "group": "Bangla",
@@ -455,6 +448,13 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8"
+      },
+      {
+        "name": "Makkah TV",
+        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
       },
       {
         "name": "God TV",
@@ -990,6 +990,13 @@
     ],
     "KIDS": [
       {
+        "name": "Pogo",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8"
+      },
+      {
         "name": "Zoo Moo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "KIDS",
@@ -1078,6 +1085,13 @@
         "url": "http://84.54.128.52:9090/play/1008/index.m3u8"
       },
       {
+        "name": "LOTUS MACAU",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03u/index.m3u8"
+      },
+      {
         "name": "Epic",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1085,18 +1099,11 @@
         "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8"
       },
       {
-        "name": "ZEE ANMOL CINEMA",
+        "name": "ARY MUSIK",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a04j/index.m3u8"
-      },
-      {
-        "name": "GOLDMINES MOVIES",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a04l/index.m3u8"
+        "url": "http://163.61.227.29:8000/play/a03r/index.m3u8"
       },
       {
         "name": "Movies Thriller",
@@ -1169,11 +1176,11 @@
         "url": "https://mumt03.tangotv.in/HIDOST/index.m3u8"
       },
       {
-        "name": "Discover Pakistan",
+        "name": "5 NEWS HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a03b/index.m3u8"
+        "url": "http://163.61.227.29:8000/play/a03m/index.m3u8"
       },
       {
         "name": "Zee 24 Ghanta",
@@ -1204,13 +1211,6 @@
         "url": "https://cdn-4.pishow.tv/live/241/master.m3u8"
       },
       {
-        "name": "Hum Masala",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a02g/index.m3u8"
-      },
-      {
         "name": "BBC NEWS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1239,6 +1239,13 @@
         "url": "https://mumt03.tangotv.in/DHOOM/index.m3u8"
       },
       {
+        "name": "SHOWBOX",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a045/index.m3u8"
+      },
+      {
         "name": "SANGEET BANGLA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1265,6 +1272,13 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
+      },
+      {
+        "name": "KIDS ZONE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
       },
       {
         "name": "দূরন্ত টিভি",
@@ -1452,7 +1466,14 @@
         "url": "https://stream.spicefmbd.com/stream.m3u8"
       },
       {
-        "name": "Fox Cricket 501 📡Pak vs Australia T20",
+        "name": "📡Pak vs Australia T20",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
+      },
+      {
+        "name": "Fox Cricket 501 📡",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
@@ -1471,13 +1492,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
-      },
-      {
-        "name": "🚨 Willow USA SPORT HD 🚨📡📺",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
       },
       {
         "name": "Lemar AGF",
@@ -3190,13 +3204,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
-      },
-      {
-        "name": "FOX NEWS",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
       },
       {
         "name": "DW NEWS",
