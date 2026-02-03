@@ -1266,6 +1266,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Live Quran TV 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "WAZ TV 🎯 📡",
     "type": "Cricket 🏏",
     "url": "https://tplay.live/originals/ilm-tv/index.m3u8",
@@ -1390,12 +1396,6 @@
     "type": "Football",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
     "img": "https://i.ibb.co/xSjB51j/aspor.png"
-  },
-  {
-    "name": "TRT SPOR",
-    "type": "Football",
-    "url": "https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8",
-    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
   },
   {
     "name": "PSN 1 Sports",
@@ -1746,6 +1746,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Cartoon Network",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Duck TV",
     "type": "Kids",
     "url": "https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8",
@@ -1764,6 +1770,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Unnamed Channel",
+    "type": "Kids",
+    "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZB Cartoon",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg"
+  },
+  {
     "name": "Zoo Moo",
     "type": "Kids",
     "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -1774,12 +1792,6 @@
     "type": "Kids",
     "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
     "img": "https://i.imgur.com/xv9cWSh.png"
-  },
-  {
-    "name": "ZB Cartoon (1080p)",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png"
   },
   {
     "name": "Peace tv Bangla",
@@ -1804,12 +1816,6 @@
     "type": "ISLAMIC CHANNELS",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
     "img": "https://i.ibb.co/cygNtwH/bahrain-quaran.png"
-  },
-  {
-    "name": "SHARJAH QURAN",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8",
-    "img": "https://i.ibb.co/2qdGPCh/Sharjahtvquran.png"
   },
   {
     "name": "QURAN RADIOTV SMC",

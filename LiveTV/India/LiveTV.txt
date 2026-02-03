@@ -599,6 +599,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Cricket 🏏
+Name: Live Quran TV 🎯 📡
+URL: https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: WAZ TV 🎯 📡
 URL: https://tplay.live/originals/ilm-tv/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1257,11 +1262,6 @@ URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 Logo: https://i.ibb.co/xSjB51j/aspor.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: TRT SPOR
-URL: https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
-Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: PSN 1 Sports
 URL: https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 Logo: https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9
@@ -1685,11 +1685,6 @@ URL: https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3
 Logo: https://i.ibb.co/cygNtwH/bahrain-quaran.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: SHARJAH QURAN
-URL: https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-Logo: https://i.ibb.co/2qdGPCh/Sharjahtvquran.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: QURAN RADIOTV SMC
 URL: https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 Logo: https://i.ibb.co/2qdGPCh/Sharjahtvquran.png
@@ -1939,6 +1934,11 @@ URL: https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Cartoon Network
+URL: https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Duck TV
 URL: https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1954,6 +1954,16 @@ URL: https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Unnamed Channel
+URL: https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: ZB Cartoon
+URL: https://server.zillarbarta.com/zbcatun/video.m3u8
+Logo: https://i.postimg.cc/FFwSjdzS/Pogo.jpg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Zoo Moo
 URL: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1962,11 +1972,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Chithiram (576p)
 URL: https://cdn-6.pishow.tv/live/1243/master.m3u8
 Logo: https://i.imgur.com/xv9cWSh.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: ZB Cartoon (1080p)
-URL: https://server.zillarbarta.com/zbcatun/video.m3u8
-Logo: https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
