@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-07 06:26:48",
+  "date": "2026-02-07 13:46:05",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -254,29 +254,6 @@
         "url": "https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8"
       }
     ],
-    "BPL 2026": [
-      {
-        "name": "BPL 2026",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10",
-        "group": "BPL 2026",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "BPL 2026",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10",
-        "group": "BPL 2026",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8"
-      },
-      {
-        "name": "BPL 2026",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10",
-        "group": "BPL 2026",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a05l/index.m3u8"
-      }
-    ],
     "Live Sports": [
       {
         "name": "Live Sports",
@@ -284,6 +261,13 @@
         "group": "Live Sports",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://starsportshindiii.pages.dev/index.m3u8"
+      },
+      {
+        "name": "Live Sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10",
+        "group": "Live Sports",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a05l/index.m3u8"
       },
       {
         "name": "Live Sports",
@@ -851,6 +835,13 @@
     ],
     "KIDS": [
       {
+        "name": "Pogo",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8"
+      },
+      {
         "name": "Zoo Moo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "KIDS",
@@ -937,6 +928,13 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a04c/index.m3u8"
+      },
+      {
+        "name": "HBO FAMILY",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8"
       },
       {
         "name": "LOTUS MACAU",
@@ -1170,6 +1168,13 @@
         "url": "http://163.61.227.29:8000/play/a01w/index.m3u8"
       },
       {
+        "name": "National Geographic",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a01d/index.m3u8"
+      },
+      {
         "name": "5 NEWS HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1315,13 +1320,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
-      },
-      {
-        "name": "Cartoon Network Hindi",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
       },
       {
         "name": "দূরন্ত টিভি",
@@ -1532,18 +1530,25 @@
         "url": "https://stream.spicefmbd.com/stream.m3u8"
       },
       {
+        "name": "T Sports T20 World Cup 26",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8"
+      },
+      {
+        "name": "T Sports T20 World Cup 26",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8"
+      },
+      {
         "name": "PTV Sports T20 World Cup 26",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://tv.ottking.top:443/ottking247/fuckyou/90.m3u8"
-      },
-      {
-        "name": "Willow Cricket T20 World Cup",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
       },
       {
         "name": "Fox Cricket 501 📡",
@@ -1572,6 +1577,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://tv.ottking.top:443/ottking247/fuckyou/96.m3u8"
+      },
+      {
+        "name": "Jio SPORT HD 🚨📡📺 🚨",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
       },
       {
         "name": "Lemar AGF",
@@ -2948,6 +2960,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
+      },
+      {
+        "name": "BBC News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
